@@ -10,8 +10,8 @@ We are growing our team, looking for passionate software engineers located in Ar
 - Solid experience with **Microservices Architecture** 
 - Good understanding of **Unix**, **Docker** and relational databases. **ReactJS** is a plus 
 - Proficient understanding of code versioning tools such as **Git**  
-- You love writing quality code with functional programming and immutable data structures 
-- You're interested in Bitcoin and blockchains 
+- You love writing quality code with **functional programming** and **immutable data structures**
+- You're interested in **Bitcoin and blockchains** 
 - You're familiar with mobile development (Android/iOS) 
 - Great communication skills :)   
 
