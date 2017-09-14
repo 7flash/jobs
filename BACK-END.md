@@ -22,8 +22,7 @@ We are growing our team, looking for passionate software engineers located in Ar
 - 3 weeks holidays  
 
 ### Stack you’ll work on:  
-
-#### Our backend is built with: 
+- Bitcoin Blockchain 
 - Typescript 
 - NodeJS 
 - WebTorrent 
@@ -32,15 +31,4 @@ We are growing our team, looking for passionate software engineers located in Ar
 - Postgres 
 - RabbitMQ 
 - nginx 
-- The Bitcoin Blockchain 
-
-#### Our frontend is built with: 
-- Typescript 
-- ReactJS 
-- React-Redux & Sagas 
-- Webpack 
-- Docker  
-
-#### Our mobile apps are built with:
-- Kotling 
-- Swift
+- Terraform
